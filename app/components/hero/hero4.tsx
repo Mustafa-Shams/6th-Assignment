@@ -42,7 +42,7 @@ export default function Hero4(){
             <div className="font-semibold">
                Design 
             </div>
-            <Image src={"/star.png"} alt="star" width={48} height={24} />
+            <Image src={"/Star.png"} alt="star" width={48} height={24} />
         </div>
         </CardDescription>
   </CardHeader>
@@ -74,7 +74,7 @@ export default function Hero4(){
             <div className="font-semibold">
                Art
             </div>
-            <Image src={"/star.png"} alt="star" width={48} height={24} />
+            <Image src={"/Star.png"} alt="star" width={48} height={24} />
         </div>
         </CardDescription>
   </CardHeader>
@@ -107,7 +107,7 @@ export default function Hero4(){
             <div className="font-semibold">
                Programming 
             </div>
-            <Image src={"/star.png"} alt="star" width={48} height={24} />
+            <Image src={"/Star.png"} alt="star" width={48} height={24} />
         </div>
         </CardDescription>
   </CardHeader>
@@ -139,7 +139,7 @@ export default function Hero4(){
             <div className="font-semibold">
                Law
             </div>
-            <Image src={"/star.png"} alt="star" width={48} height={24} />
+            <Image src={"/Star.png"} alt="star" width={48} height={24} />
         </div>
         </CardDescription>
   </CardHeader>
@@ -175,7 +175,7 @@ export default function Hero4(){
             <div className="font-semibold">
                Business
             </div>
-            <Image src={"/star.png"} alt="star" width={48} height={24} />
+            <Image src={"/Star.png"} alt="star" width={48} height={24} />
         </div>
         </CardDescription>
   </CardHeader>
@@ -210,7 +210,7 @@ export default function Hero4(){
             <div className="font-semibold">
                 Tech
             </div>
-            <Image src={"/star.png"} alt="star" width={48} height={24} />
+            <Image src={"/Star.png"} alt="star" width={48} height={24} />
         </div>
         </CardDescription>
   </CardHeader>
