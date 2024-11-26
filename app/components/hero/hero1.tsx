@@ -10,7 +10,7 @@ export default function Hero1(){
                 {/* text div */}
             </div>
             <div>
-            <Image src={"/logos.png"} alt="logos" width={1280} height={56} />
+            <Image src={"/Logos.png"} alt="logos" width={1280} height={56} />
             </div>
             {/* top g div */}
         </div>
