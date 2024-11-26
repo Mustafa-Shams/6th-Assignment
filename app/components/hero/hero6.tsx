@@ -3,12 +3,12 @@ import React from "react";
 import {
     Card,
     CardContent,
-    CardDescription,
+   
     CardFooter,
     CardHeader,
-    CardTitle,
+   
   } from "@/components/ui/card"
-  import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
+  import { Avatar, AvatarImage } from "@/components/ui/avatar"
 
 export default function Hero6(){
     return(
@@ -32,7 +32,7 @@ export default function Hero6(){
   </CardHeader>
   <CardContent className="mb-5">
     <p className="text-balance ">
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
     </p>
   </CardContent>
   <CardFooter>
@@ -66,7 +66,7 @@ export default function Hero6(){
   </CardHeader>
   <CardContent className="mb-5">
     <p className="text-balance ">
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
     </p>
   </CardContent>
   <CardFooter>
@@ -100,7 +100,7 @@ export default function Hero6(){
   </CardHeader>
   <CardContent className="mb-5">
     <p className="text-balance ">
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.
     </p>
   </CardContent>
   <CardFooter>
